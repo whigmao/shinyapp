@@ -1,0 +1,12 @@
+name: TeamPython
+title: TeamPython
+username:
+account: teampython
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3243751
+bundleId: 3867867
+url: https://teampython.shinyapps.io/TeamPython/
+when: 1605550158.57602
+asMultiple: FALSE
+asStatic: FALSE
